@@ -5,7 +5,7 @@ from model import generate_sql
 with st.sidebar:
     st.markdown("### About SQL-y")
     st.write("SQL-y is a chatbot powered by Transformer that can assist you with SQL queries.")
-    st.write("Feel free to ask any SQL-related questions!")
+    st.write("Feel free to SQL-y your desired promps")
     st.markdown("---")  # Add a horizontal line for separation
     st.write("*Made by:*")
     st.write("⦿ Houda Moudni")
