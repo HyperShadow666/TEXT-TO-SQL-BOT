@@ -2,3 +2,4 @@ streamlit
 transformers==4.40.1
 torch==2.3.0
 tokenizers==0.19.1
+sentencepiece==0.2.0
