@@ -3,4 +3,3 @@ transformers==4.40.1
 torch==2.3.0
 tokenizers==0.19.1
 sentencepiece==0.2.0
-https://www.notion.so/RPA-Subject-Idea-1ca896710989801e865ce24b87e89b86?pvs=4
